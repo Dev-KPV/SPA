@@ -1,0 +1,35 @@
+[{
+    "painting": "Sunflowers",
+    "artist": "Vincent Van Gogh",
+    "date": "2022-06-13",
+    "price": 3000,
+    "img": "https://iiif.micr.io/HVTVF/full/800,/0/default.webp"
+},
+{
+    "painting": "The Girl with a Pearl Earring",
+    "artist": "Jan Vermeer",
+    "date": "2022-01-10",
+    "price": 2000,
+    "img": "https://en.most-famous-paintings.com/Art.nsf/O/8XYC2C/$File/Jan-Vermeer-The-Girl-with-a-Pearl-Earring.jpg"
+},
+{
+    "painting": "Water Lilies",
+    "artist": "Claude Monet",
+    "date": "2022-08-08",
+    "price": 1000,
+    "img": "https://en.most-famous-paintings.com/Art.nsf/O/8EWENT/$File/Claude-Monet-Water-Lilies-S.JPG"
+},
+{
+    "painting": "American Gothic",
+    "artist": "Grant Wood",
+    "date": "2022-11-27",
+    "price": 5000,
+    "img": "https://en.most-famous-paintings.com/Art.nsf/O/8XY5W5/$File/Grant-Wood-American-Gothic-S.jpg"
+},
+{
+    "painting": "The Son of Man",
+    "artist": "Rene Magritte",
+    "date": "2022-09-07",
+    "price": 4000,
+    "img": "https://en.most-famous-paintings.com/Art.nsf/O/8XYU67/$File/Rene-Magritte-The-Son-of-Man-S.jpg"
+}]
